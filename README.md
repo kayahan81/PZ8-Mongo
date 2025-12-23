@@ -53,7 +53,7 @@ Mongodb: 7.0.28
 Для запуска http нужно выполнить 4 шага:
 ## 1) Клонировать данный репозиторий в удобную для вас папку:
 ```Powershell
-git clone https://github.com/kayahan81/PZ7-Redis
+git clone https://github.com/kayahan81/PZ8-Mongo
 ```
 ## 2) Перейти в папку http:
 ```Powershell
