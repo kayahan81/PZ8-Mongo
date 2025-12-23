@@ -65,7 +65,7 @@ go mod tidy
 ```
 ## 4) Команда запуска
 ```Powershell
-go run ./cmd/server
+go run ./cmd/api
 ```
 
 # Команда сборки
