@@ -100,7 +100,7 @@ server.exe
 
 <img width="1452" height="215" alt="spisok" src="https://github.com/user-attachments/assets/dfb1cc67-a2a1-4d54-99cc-9c74a077aec7" />
 
-#Ответы на вопросы
+# Ответы на вопросы
 
 1.	Чем документная модель MongoDB принципиально отличается от реляционной? Когда она удобнее?
 Принципиальные отличия:
